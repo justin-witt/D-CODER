@@ -4,7 +4,7 @@ D-CODER is a simple python minigame that has the user attempting to decode a pas
 ## Requirments
 1. Curses
 ## Startup
-1. Run "decoder.py" with python
+1. Run "dcoder.py" with python
 2. Enjoy
 ## Controls
 - Quit: Ctrl + C
