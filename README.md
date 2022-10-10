@@ -1,7 +1,7 @@
 # D-CODER
 D-CODER is a simple python minigame that has the user attempting to decode a password on a long forgotten-terminal. Feel free to make any changes to the game or reuse the material. 
 ![Screenshot of D-CODER Gameplay](https://lh3.googleusercontent.com/drive-viewer/AJc5JmTXZmHYw1wl85uAhHP04XKqDDSDn5vIdlGdGU5AWkIqJ7ffwX4ePUAKn3gETJOUATlGDuWKm6U=w1919-h937)
-## Requirments
+## Requirements
 1. Curses
 ## Startup
 1. Run "dcoder.py" with python
